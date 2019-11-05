@@ -1,4 +1,4 @@
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](YOUR_EMAIL_CODE)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=F2TW6JW3DRDE2&source=url)
 # Trabalho de Informática Industrial II - Rede CAN
 
 Trabalho realizado por Guilherme Piveti Filho e Paulo Masnik para a disciplina de Informática Industrial II sobre a implementação de rede CAN em uma aplicação.
