@@ -5,7 +5,7 @@ Trabalho realizado por Guilherme Piveti Filho e Paulo Masnik para a disciplina d
 
 ## Contextualização
 
-Este projeto foi desenvolvido para simular um sistema de sensoreamento de área com risco de explosão, em que se deve garantir que não exista chamas, temperatura excessiva e muita incidência solar. Dessa forma foi criada uma rede de módulos, em que cada módulo se instala um sensor ligado à um microcontrolador e um módulo CAN-BUS responsáveis por fazer a leitura do sensor e transmitir os dados à um microncontrolador. Este último controlador fica responsável por analizar os dados e exibir ao usuário final.
+Este projeto foi desenvolvido para simular um sistema de sensoreamento de área com risco de explosão, em que se deve garantir que não exista chamas, temperatura excessiva e muita incidência solar. Dessa forma foi criada uma rede de módulos, em que cada módulo se instala um sensor ligado à um microcontrolador e um módulo CAN-BUS responsáveis por fazer a leitura do sensor e transmitir os dados à um microncontrolador. Este último controlador fica responsável por analisar os dados e exibir ao usuário final.
 
 Para garantir a segurança do sistema foi definida prioridade para sensores mais críticos através da definição de endereços menores (bits dominantes). A lista de endereçamentos/prioridade ficou definida de acordo com a tabela a seguir:
 
@@ -32,3 +32,7 @@ Agora basta energizar os microntontroladores e acompanhar os dados e alertas dos
 ### Atenção
 
 Em caso de erro na inicialização do módulo CAN-BUS de algum dos equipamentos uma luz LED vermelha se acenderá, indicando que as conexões do módulo devem ser revisadas e o equipamento reiniciado.
+
+### Vídeo explicativo
+
+https://www.youtube.com/watch?v=50qw99lcCsk
